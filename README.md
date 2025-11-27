@@ -9,7 +9,7 @@
 
 
 </div>
-## 👋 Hey, 
+
 I'm Sandeep Yadav  
 **Frontend Developer | Angular • React • PHP • MongoDB • MySQL**
 
