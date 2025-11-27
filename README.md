@@ -6,7 +6,7 @@
         
           
       
-      </span></animated-image>
+      
 
 
 </div>
