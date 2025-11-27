@@ -2,6 +2,7 @@
 **Frontend Developer | Angular • React • PHP • MongoDB • MySQL**
 
 I build modern, scalable, and user-friendly web applications.  
+I build fast, responsive, and user-friendly web applications. Focused on clean UI, optimized code, and smooth user experience.
 I love creating polished UI, fixing tricky bugs, and improving performance 🚀  
 
 ---
