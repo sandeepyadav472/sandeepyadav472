@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </div>
+<p align="left"> <a href="https://linkedin.com/in/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="45"/> </a> <a href="mailto:sandeepyadav472@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="45"/> </a> <a href="https://github.com/sandeepyadav472" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="45"/> </a> </p>
 ## 👋 Hey, 
 I'm Sandeep Yadav  
 **Frontend Developer | Angular • React • PHP • MongoDB • MySQL**
