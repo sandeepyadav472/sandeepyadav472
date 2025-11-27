@@ -1,6 +1,7 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </div>
-## 👋 Hey, I'm Sandeep Yadav  
+## 👋 Hey, 
+I'm Sandeep Yadav  
 **Frontend Developer | Angular • React • PHP • MongoDB • MySQL**
 
 I build modern, scalable, and user-friendly web applications.  
